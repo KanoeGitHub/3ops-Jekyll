@@ -9,7 +9,7 @@ image: /images/3OpS_logo300px.png
     {%- for post in category[1] -%}
     <li class="list3__item">
         <div class="box--3">
-            <a href="{{ post.url }}">
+            <a href= "{{ post.url | relative_url }}">
             <img src="{{ post.image }}">
             </a>
         </div>
