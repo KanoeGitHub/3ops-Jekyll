@@ -1,8 +1,10 @@
 ---
-layout: page
-title: PlayLinks
-permalink: /play/
+layout: event
+title: Links
+permalink: /links/
 ---
+
+# Stream & DL
 
 ### __[BOOTH](https://3ops.booth.pm/)__
 
@@ -13,3 +15,11 @@ permalink: /play/
 ### __[Youtube](https://www.youtube.com/channel/UCrLUAnINjy1jO8aM0adKcIQ)__
 
 ### __[Bandcamp](https://3octpersec.bandcamp.com/)__
+
+<div class="space-30"> </div>
+
+# Social
+
+### __[Twitter](https://twitter.com/3_oct_per_sec)__
+
+
