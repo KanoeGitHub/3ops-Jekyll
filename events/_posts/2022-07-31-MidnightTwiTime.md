@@ -21,9 +21,9 @@ Music&Lyrics: [Kanoe](https://twitter.com/KanoeTweet)
 
 ### __Tr.2 Midnight Twitime (inst)__
 
-Mix, Mastering: Kanoe
-Artwork: 南見まめこ [@mameko_mnm](https://twitter.com/mameko_mnm)
-Movie: 宇佐美まに [@_mani_Usami_](https://twitter.com/_mani_Usami_)
+Mix, Mastering: Kanoe <br>
+Artwork: 南見まめこ [@mameko_mnm](https://twitter.com/mameko_mnm) <br>
+Movie: 宇佐美まに [@\_mani_Usami\_](https://twitter.com/_mani_Usami_) <br>
 
 <div class="space-30"> </div>
 
