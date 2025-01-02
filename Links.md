@@ -14,8 +14,6 @@ permalink: /links/
 
 ### __[Youtube](https://www.youtube.com/channel/UCrLUAnINjy1jO8aM0adKcIQ)__
 
-### __[Bandcamp](https://3octpersec.bandcamp.com/)__
-
 <div class="space-30"> </div>
 
 # Social
